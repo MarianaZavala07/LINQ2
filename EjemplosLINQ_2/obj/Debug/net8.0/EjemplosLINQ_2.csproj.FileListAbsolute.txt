@@ -1,0 +1,14 @@
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\bin\Debug\net8.0\EjemplosLINQ_2.exe
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\bin\Debug\net8.0\EjemplosLINQ_2.deps.json
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\bin\Debug\net8.0\EjemplosLINQ_2.runtimeconfig.json
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\bin\Debug\net8.0\EjemplosLINQ_2.dll
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\bin\Debug\net8.0\EjemplosLINQ_2.pdb
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.AssemblyInfoInputs.cache
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.AssemblyInfo.cs
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.csproj.CoreCompileInputs.cache
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.dll
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\refint\EjemplosLINQ_2.dll
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.pdb
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\EjemplosLINQ_2.genruntimeconfig.cache
+C:\Users\Merry\OneDrive\Escritorio\LINQ-PART2\EjemplosLINQ_2\obj\Debug\net8.0\ref\EjemplosLINQ_2.dll
